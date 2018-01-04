@@ -77,9 +77,9 @@ Many things are hard coded currently.  The algorithim wired up to only be able t
 1 - Get to a functional prototype with a rudimentary main function for smoke testing (almost done)  
 2 - Implement ISerializable so that instances of the AI can be saved and loaded  
 3 - Make a few more test drivers  
-     a - AI vs. Player console app  
-     b - AI vs. Random Number Generator  
-     c - AI vs. AI  
+3a - AI vs. Player console app  
+3b - AI vs. Random Number Generator  
+3c - AI vs. AI  
 4 - Make a simple website to start getting users and training data  
 5 - Make a more robust website, with profiles and individual instances of the AI  
 6 - Figure out how to meaningfully aggregate the data from multiple players  
