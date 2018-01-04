@@ -2,9 +2,9 @@
 
 ## Contents
 
-1 - RPS Theory
-2 - The Scheme
-3 - State of the Project
+1 - RPS Theory  
+2 - The Scheme  
+3 - State of the Project  
 4 - Road Map
 
 ## RPS Theory
@@ -74,17 +74,17 @@ Many things are hard coded currently.  The algorithim wired up to only be able t
 
 ## Road Map
 
-1 - Get to a functional prototype with a rudimentary main function for smoke testing (almost done)
-2 - Implement ISerializable so that instances of the AI can be saved and loaded
-3 - Make a few more test drivers
-     a - AI vs. Player console app
-     b - AI vs. Random Number Generator
-     c - AI vs. AI
-4 - Make a simple website to start getting users and training data
-5 - Make a more robust website, with profiles and individual instances of the AI
-6 - Figure out how to meaningfully aggregate the data from multiple players
-7 - Statistically analyze data to identify attempts to mettle with the data
-8 - Revise or rework the algorithm as patterns emerge
-9 - Expose the functionality through a web API and a mobile app
+1 - Get to a functional prototype with a rudimentary main function for smoke testing (almost done)  
+2 - Implement ISerializable so that instances of the AI can be saved and loaded  
+3 - Make a few more test drivers  
+     a - AI vs. Player console app  
+     b - AI vs. Random Number Generator  
+     c - AI vs. AI  
+4 - Make a simple website to start getting users and training data  
+5 - Make a more robust website, with profiles and individual instances of the AI  
+6 - Figure out how to meaningfully aggregate the data from multiple players  
+7 - Statistically analyze data to identify attempts to mettle with the data  
+8 - Revise or rework the algorithm as patterns emerge  
+9 - Expose the functionality through a web API and a mobile app  
 
 So yeah.  still a long way to go.
