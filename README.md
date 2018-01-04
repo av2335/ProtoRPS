@@ -3,11 +3,8 @@
 ## Contents
 
 1 - RPS Theory
-
 2 - The Scheme
-
 3 - State of the Project
-
 4 - Road Map
 
 ## RPS Theory
